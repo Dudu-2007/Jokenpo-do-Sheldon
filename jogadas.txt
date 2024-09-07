@@ -1,0 +1,5 @@
+Jogada 1: Pedra vs Pedra - Empate! | Pontos: Voce 0, Computador 0
+Jogada 2: Spock vs Spock - Empate! | Pontos: Voce 0, Computador 0
+Jogada 3: Tesoura vs Pedra - Computador venceu! | Pontos: Voce 0, Computador 3
+Jogada 4: Spock vs Pedra - Você venceu! | Pontos: Voce 5, Computador 0
+Jogada 5: Spock vs Tesoura - Você venceu! | Pontos: Voce 10, Computador 0
